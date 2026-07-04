@@ -1,0 +1,63 @@
+﻿  LG_List_Simulator.cpp
+  btn_driver.cpp
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\appTools\btn_driver.cpp(84,37): warning C4244: “参数”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\appTools\btn_driver.cpp(117,37): warning C4244: “参数”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\appTools\btn_driver.cpp(151,38): warning C4244: “参数”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+  AppMain.cpp
+  List_GUI.cpp
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(17,63): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(17,63): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(17,69): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(17,69): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(17,75): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(17,75): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(17,81): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(17,81): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(18,65): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(18,65): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(18,71): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(18,71): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(18,77): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(18,77): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(18,83): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(18,83): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,52): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,52): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,58): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,58): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,64): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,64): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,70): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,70): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,76): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,76): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,82): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,82): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,88): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,88): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,94): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(19,94): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,53): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,53): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,59): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,59): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,65): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,65): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,71): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,71): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,77): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,77): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,83): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,83): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,89): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,89): warning C4309: “初始化”: 截断常量值
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,95): warning C4838: 从“int”转换到“const char”需要收缩转换
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI.cpp(20,95): warning C4309: “初始化”: 截断常量值
+  List_GUI_Template.cpp
+  List_GUI_Tools.cpp
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI_Tools.cpp(215,15): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI_Tools.cpp(216,16): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI_Tools.cpp(291,21): warning C4244: “参数”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+E:\ProjectC++\LG_List_Simulator\LG_List_Simulator\lg_list\List_GUI_Tools.cpp(385,22): warning C4244: “参数”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+  正在生成代码...
+  LG_List_Simulator.vcxproj -> E:\ProjectC++\LG_List_Simulator\x64\Debug\LG_List_Simulator.exe

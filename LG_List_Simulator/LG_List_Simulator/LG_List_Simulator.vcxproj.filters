@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="lg_list">
+      <UniqueIdentifier>{8f3d45f3-e1bc-47c0-9945-2427e690183c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="app">
+      <UniqueIdentifier>{7a23285a-055a-401d-8a15-7b51d285a9dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="flexible_button">
+      <UniqueIdentifier>{98001fea-7894-4f9c-a5a2-5ebb3f1b25d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="appTools">
+      <UniqueIdentifier>{e31c94e2-c9b9-4c91-bce7-675c3a3fb424}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lg_list\font">
+      <UniqueIdentifier>{e8b95661-81da-4ca4-9ce3-8ad54dfc0c80}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LG_List_Simulator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lg_list\List_GUI.h">
+      <Filter>lg_list</Filter>
+    </ClInclude>
+    <ClInclude Include="lg_list\List_GUI_Config.h">
+      <Filter>lg_list</Filter>
+    </ClInclude>
+    <ClInclude Include="lg_list\List_GUI_Tools.h">
+      <Filter>lg_list</Filter>
+    </ClInclude>
+    <ClInclude Include="lg_list\List_GUI_Template.h">
+      <Filter>lg_list</Filter>
+    </ClInclude>
+    <ClInclude Include="app\AppMain.h">
+      <Filter>app</Filter>
+    </ClInclude>
+    <ClInclude Include="flexible_button\flexible_button.h">
+      <Filter>flexible_button</Filter>
+    </ClInclude>
+    <ClInclude Include="appTools\btn_driver.h">
+      <Filter>appTools</Filter>
+    </ClInclude>
+    <ClInclude Include="app\GlobalAppConfig.h">
+      <Filter>app</Filter>
+    </ClInclude>
+    <ClInclude Include="lg_list\font\SubHZStack_all.h">
+      <Filter>lg_list\font</Filter>
+    </ClInclude>
+    <ClInclude Include="lg_list\font\SubHZStack150.h">
+      <Filter>lg_list\font</Filter>
+    </ClInclude>
+    <ClInclude Include="lg_list\font\SubHZStack1000.h">
+      <Filter>lg_list\font</Filter>
+    </ClInclude>
+    <ClInclude Include="lg_list\font\SubHZStack3000.h">
+      <Filter>lg_list\font</Filter>
+    </ClInclude>
+    <ClInclude Include="lg_list\font\SubHZStack5000.h">
+      <Filter>lg_list\font</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LG_List_Simulator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lg_list\List_GUI.cpp">
+      <Filter>lg_list</Filter>
+    </ClCompile>
+    <ClCompile Include="lg_list\List_GUI_Template.cpp">
+      <Filter>lg_list</Filter>
+    </ClCompile>
+    <ClCompile Include="lg_list\List_GUI_Tools.cpp">
+      <Filter>lg_list</Filter>
+    </ClCompile>
+    <ClCompile Include="app\AppMain.cpp">
+      <Filter>app</Filter>
+    </ClCompile>
+    <ClCompile Include="flexible_button\flexible_button.c">
+      <Filter>flexible_button</Filter>
+    </ClCompile>
+    <ClCompile Include="appTools\btn_driver.cpp">
+      <Filter>appTools</Filter>
+    </ClCompile>
+    <ClCompile Include="lg_list\font\SubHZStack_all.cpp">
+      <Filter>lg_list\font</Filter>
+    </ClCompile>
+    <ClCompile Include="lg_list\font\SubHZStack150.cpp">
+      <Filter>lg_list\font</Filter>
+    </ClCompile>
+    <ClCompile Include="lg_list\font\SubHZStack1000.cpp">
+      <Filter>lg_list\font</Filter>
+    </ClCompile>
+    <ClCompile Include="lg_list\font\SubHZStack3000.cpp">
+      <Filter>lg_list\font</Filter>
+    </ClCompile>
+    <ClCompile Include="lg_list\font\SubHZStack5000.cpp">
+      <Filter>lg_list\font</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LG_List_Simulator.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="LG_List_Simulator.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
